@@ -1,0 +1,34 @@
+Convert the registration file to CSS & XPath?
+
+For the test case which is executed on registration page.
+
+Xpath:
+//Input[@name='firstname']
+//Input[@name='lastname']
+//Input[@sex='male'"]
+//select
+//select[2]
+//select[3]
+//select[4]
+//select[4]
+//select[4]
+//input[@name='Remeber me']
+//button[@type='button']
+
+CSS:
+Input[name='firstname']
+Input[name='lastname']
+Input[sex='male'"]
+Selects will not identified by CSS
+input[name='Remember me']
+button[type='button']
+
+
+//Input[@sex='female'"]
+//select
+//select[2]
+//select[3]
+//select[4]
+//select[4]
+//select[4]
+//a

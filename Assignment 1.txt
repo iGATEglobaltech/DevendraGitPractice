@@ -1,0 +1,32 @@
+My Answers:
+
+Selenium IDE:
+It is a firefox plugin which will be used for record & Playback
+very difficult to maintain the scripts
+It will not import the libs
+Data connection & Condtional statments it will not understand.
+
+Remote Control:
+
+It is a server which will inject the some java codes(ex : some libs which we will not know) to work on multiple browsers (Only firefox is having in bulit in lib and others are not having the lib)
+
+Web driver:
+Web driver eliminates  RC drawback to work the browser without having the external injected code.
+
+My colleague answers:
+
+Selenium IDE:
+FireFox Add in
+Record and Playback Tool
+Difficult to Maintain
+Can't import Other lib
+
+Selenium RC:
+Multiple browser
+Each browser Acts as a client
+Inject java script code to browser
+Since except firefox other browsers have selenium lib.
+
+
+
+ 
